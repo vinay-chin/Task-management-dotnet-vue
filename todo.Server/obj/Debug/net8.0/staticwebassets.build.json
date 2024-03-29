@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "+6uUTA1stC2eWbqb5Dbl3YvcN8r8v/P6E75aFQ+0ii0=",
+  "Source": "todo.Server",
+  "BasePath": "_content/todo.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\chvin\\source\\repos\\Todo\\todo.client\\todo.client.esproj",
+      "Version": 2,
+      "Source": "todo.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
