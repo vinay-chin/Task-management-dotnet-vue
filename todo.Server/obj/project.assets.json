@@ -2057,11 +2057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chvin\\source\\repos\\Todo\\todo.Server\\todo.Server.csproj",
+      "projectUniqueName": "C:\\Users\\chvin\\OneDrive\\Desktop\\Vinay\\Task-management-dotnet-vue\\todo.Server\\todo.Server.csproj",
       "projectName": "todo.Server",
-      "projectPath": "C:\\Users\\chvin\\source\\repos\\Todo\\todo.Server\\todo.Server.csproj",
+      "projectPath": "C:\\Users\\chvin\\OneDrive\\Desktop\\Vinay\\Task-management-dotnet-vue\\todo.Server\\todo.Server.csproj",
       "packagesPath": "C:\\Users\\chvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chvin\\source\\repos\\Todo\\todo.Server\\obj\\",
+      "outputPath": "C:\\Users\\chvin\\OneDrive\\Desktop\\Vinay\\Task-management-dotnet-vue\\todo.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
